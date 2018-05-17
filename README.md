@@ -1,6 +1,7 @@
 # Shiro+JWT+Spring Boot Restful简易教程
 
 ### 序言
+参加：http://ju.outofmemory.cn/entry/341269
 
 我也是半路出家的人，如果大家有什么好的意见或批评，请务必`issue`下。
 
